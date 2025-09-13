@@ -25,54 +25,6 @@ Styling: Tailwind CSS
 
 Animations: Framer Motion
 
-📂 Project Structure
-
-vyuha/
-
- ┣ 📜 src/
- 
- ┃ ┣ 📜 components/    # Reusable UI components (cards, charts, etc.)
- 
- ┃ ┣ 📜 pages/         # Main sections (Satellites, Launches, Growth)
- 
- ┃ ┣ 📜 assets/        # Icons, images, logos
- 
- ┃ ┣ 📜 data/          # Static or fetched ISRO data
- 
- ┃ ┣ 📜 App.tsx        # Root component
- 
- ┃ ┗ 📜 main.tsx       # Entry point
- 
- ┣ 📜 package.json
- 
- ┣ 📜 tsconfig.json
- 
- ┣ 📜 tailwind.config.js
- 
- ┣ 📜 vite.config.ts
- 
- ┣ 📜 README.md
-
- ▶️ Getting Started
- 
-1️⃣ Clone the repo
-
-git clone https://github.com/<your-username>/vyuha.git
-
-cd vyuha
-
-2️⃣ Install dependencies
-
-npm install
-
-3️⃣ Run the app (development mode)
-
-npm run dev
-
-4️⃣ Build for production
-
-npm run build
-
 🖼️ Demo & Screenshots
 <img width="1346" height="523" alt="Screenshot 2025-09-12 221449" src="https://github.com/user-attachments/assets/47ea3935-f874-45ac-943c-45af07b4f76d" />
 <img width="1346" height="524" alt="zz" src="https://github.com/user-attachments/assets/f3c19289-a3b0-4df0-806f-fe7227bc998f" />
